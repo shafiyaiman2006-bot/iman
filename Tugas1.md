@@ -12,4 +12,5 @@
 - Masih agak bingung dengan konsep branch, fork, dan pull request.  
 - Secara keseluruhan, masih butuh banyak latihan supaya lebih terbiasa.
 
-
+## gambar
+![Tugas Gambar](Gambar1.png)
